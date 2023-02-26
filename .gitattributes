@@ -1,1 +1,5 @@
 testfile.png filter=lfs diff=lfs merge=lfs -text
+pexels-oliver-sjöström-1433052.jpg filter=lfs diff=lfs merge=lfs -text
+pexels-anand-dandekar-1532771.jpg filter=lfs diff=lfs merge=lfs -text
+pexels-danne-516541.jpg filter=lfs diff=lfs merge=lfs -text
+pexels-yuliya-strizhkina-1198802.jpg filter=lfs diff=lfs merge=lfs -text
